@@ -1,0 +1,31 @@
+{
+  "applications": [
+    {
+      "id": "1",
+      "company": "CHECK24",
+      "role": "Junior Full-Stack Developer",
+      "location": "Munich, Germany",
+      "status": "Rejected",
+      "dateApplied": "2026-06-28",
+      "notes": "Applied via careers portal, auto-rejected after 5 days."
+    },
+    {
+      "id": "2",
+      "company": "N26",
+      "role": "Backend Engineer - Payments",
+      "location": "Berlin, Germany",
+      "status": "Under Review",
+      "dateApplied": "2026-07-03",
+      "notes": "Received confirmation email, no update yet."
+    },
+    {
+      "id": "3",
+      "company": "BMW Group",
+      "role": "Praktikant Software Entwicklung",
+      "location": "Munich, Germany",
+      "status": "Interview",
+      "dateApplied": "2026-06-25",
+      "notes": "Completed online assessment, waiting for interview scheduling."
+    }
+  ]
+}
